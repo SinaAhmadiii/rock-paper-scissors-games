@@ -17,7 +17,7 @@ p{
     margin-bottom: .5rem;
 }
 
-buttons{
+.buttons{
     display: flex;
     justify-content: center;
 }
